@@ -1,10 +1,10 @@
-### Hi there 👋
-
-<!--
-**DF-1122/DF-1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/AUYhIMdGrg23e/giphy.gif" width="150"/>
+</div>
+<h1 align="center">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
