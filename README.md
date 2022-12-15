@@ -9,7 +9,7 @@
 <h1>
   Who Am I?
 </h1>
-I am an in-house recruiter who believes a good cultural fit is just as, if not more important than skillset.
+I am an in-house recruiter who believes a good cultural fit is equally if not more important than skillset.
 <h1>
   What Do I Do?
 </h1> 
